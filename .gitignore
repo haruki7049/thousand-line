@@ -1,0 +1,16 @@
+# nix-direnv
+.direnv/
+
+# Nix's result
+result
+
+# OS Dev
+/disk/*
+!/disk/.gitkeep
+*.map
+*.tar
+*.o
+*.elf
+*.bin
+*.log
+*.pcap
